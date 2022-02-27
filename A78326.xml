@@ -1,0 +1,313 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of the names of the [brace] lords spiritual, lords temporal, and commons assembled in Parliament: began at Westminster the 8th of May, (13 Caroli Regis) and continued to the 30th of July following, and then adjourned till the 20th of November 1661. According to their dignities, offices, and degrees; with their assistants, and officers of attendance. ; Together with the antient statute for placing the lords in all parliaments, and assemblies of councils.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78326</idno>
+            <idno type="STC">Wing C1396A</idno>
+            <idno type="STC">ESTC R173598</idno>
+            <idno type="EEBO-CITATION">52510728</idno>
+            <idno type="OCLC">ocm 52510728</idno>
+            <idno type="VID">153094</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78326)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153094)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2347:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of the names of the [brace] lords spiritual, lords temporal, and commons assembled in Parliament: began at Westminster the 8th of May, (13 Caroli Regis) and continued to the 30th of July following, and then adjourned till the 20th of November 1661. According to their dignities, offices, and degrees; with their assistants, and officers of attendance. ; Together with the antient statute for placing the lords in all parliaments, and assemblies of councils.</title>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Pauley, and are to be Sold by the Several Book-sllers about London.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Colophon, p. [6]: London, Printed for Robert Pawley, 1661.</note>
+                  <note>In spite of title, contains only "A Perfect catalogue of the lords spiritual assembled in parliament, ranked in their order; whereof the five first take place by act of Parliament, the rest according to their consecration."</note>
+                  <note>Imperfect: tightly bound, creased, and torn, with loss of print.</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain. --  Parliament --  Registers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153094:1"/>
+            <p>A CATALOGUE Of the <hi>NAMES</hi> of The
+<list>
+                  <item>LORDS <hi>Spiritual,</hi>
+                  </item>
+                  <item>LORDS <hi>Temporal,</hi>
+                  </item>
+               </list> AND COMMONS Aſſembled in PARLIAMENT.</p>
+            <p>Began at <hi>Weſtminſter</hi> the 8<hi rend="sup">th</hi> of <hi>May</hi> (13 <hi>Caroli Regis</hi>) and continued to the 30<hi rend="sup">th</hi> of <hi>July</hi> following, and then Adjourned till the 20<hi rend="sup">th</hi> of <hi>November</hi> 1661.</p>
+            <p>According to their Dignities, Offices, and Degrees; with their Aſſiſtants, and Officers of Attendance.</p>
+            <p>Together with the Antient Statute for Placing the Lords in all Parliaments, and other Aſſemblies of Councils.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Pauley,</hi> and are to be Sold by the Several Book-ſellers about <hi>London.</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153094:2"/>
+            <pb facs="tcp:153094:2"/>
+            <head>A Perfect <hi>CATALOGUE</hi> of the Lords Spiritual aſſembled in Parliament, Ranked in their Order; whereof the five firſt take Place by Act of Parliament, the reſt according to their Conſecration.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">Counties under their ſeveral Juriſdictions.</cell>
+                     <cell role="label">Pariſhes in each Dioc.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A.</hi> DOctor <hi>Will. Juxon,</hi> Lord Archbiſh. of <hi>Canterbury</hi> His Grace, Primate and Metropolitan of all <hi>England;</hi> was Conſecrated Biſh. of <hi>London</hi> 1633. tranſlated from <hi>Lond.</hi> to <hi>Canterbury,</hi> 1660</cell>
+                     <cell>Kent <hi>part.</hi>
+                     </cell>
+                     <cell>257</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A.</hi> Dr. <hi>Accepted Frewen,</hi> Lord Arch<g ref="char:EOLhyphen"/>biſhop of <hi>York,</hi> &amp; Metropolitan of <hi>England,</hi> was conſecrated Biſhop of <hi>Coventry</hi> and <hi>Lichfield</hi> 1644, tranſlated from thence to <hi>York,</hi> 1660. <hi>Y.</hi>
+                     </cell>
+                     <cell>York ſhire. Notingham<g ref="char:EOLhyphen"/>ſhire.</cell>
+                     <cell>581</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. <hi>Gilbert Shelden</hi> Lord Bi<g ref="char:EOLhyphen"/>ſhop of <hi>London,</hi> was conſecrat<g ref="char:EOLhyphen"/>ed <hi>Octob.</hi> 28. 1660.</cell>
+                     <cell>London, Eſſex, Middleſex, Hartfordſh <hi>part.</hi>
+                     </cell>
+                     <cell>623</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. <hi>John Coſſens</hi> Lord Biſhop of <hi>Durham,</hi> was conſecrated <hi>Decemb.</hi> 2. 1660. <hi>Y.</hi>
+                     </cell>
+                     <cell>Durham, Nor<g ref="char:EOLhyphen"/>thumberland, Man Iſle.</cell>
+                     <cell>135</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A.</hi> Dr. <hi>Brian Duppa</hi> Lord Biſhop of <hi>wincheſter,</hi> Prelate of the Garter, and Biſhop Lord Al<g ref="char:EOLhyphen"/>moner; he was Conſecrated Biſh. of <hi>Chicheſter</hi> 1638. from thence tranſlated to <hi>Sarum</hi> 1640. and from thence to <hi>Wincheſter,</hi> 1660.</cell>
+                     <cell>Hamſhi<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e, Surrey, VVi<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ht Iſle, Guernſey Iſle, Jernſey Iſle.</cell>
+                     <cell>362.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb facs="tcp:153094:3"/> 
+                        <hi>A.</hi> Dr. <hi>William Peirs</hi> Lord Biſhop of <hi>Bath</hi> and <hi>Wells,</hi> Conſecrated 1632.</cell>
+                     <cell>Somerſet-ſh.</cell>
+                     <cell>388</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A.</hi> Dr. <hi>Matthew Wren</hi> Lord Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Ely,</hi> was Conſecrated Biſhop of <hi>Hereford,</hi> 1634. thence tranſlated to <hi>Norwich,</hi> 1635. from thence to <hi>Ely,</hi> 1638</cell>
+                     <cell>Cambridge-ſh. Ely Iſle.</cell>
+                     <cell>141</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A.</hi> Dr. <hi>Robert Skinner</hi> Lord Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Oxon,</hi> Conſecrated Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Briſtol,</hi> 1636. thence tranſlated to <hi>Oxon,</hi> 1640.</cell>
+                     <cell>Oxfordſhire.</cell>
+                     <cell>195</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A.</hi> Dr. <hi>William Roberts</hi> Lord Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Bangor,</hi> and Sub-Almo<g ref="char:EOLhyphen"/>ner, was Conſecrated 1637.</cell>
+                     <cell>Carnarvon-ſh. Angleſey Iſle. Merioneth. Denby-ſh. <hi>part.</hi>
+                     </cell>
+                     <cell>107</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A.</hi> Dr. <hi>Henry King</hi> Lord Biſhop of <hi>Chicheſter,</hi> was Conſecrated 1641.</cell>
+                     <cell>Suſſex.</cell>
+                     <cell>557</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. <hi>Humphrey Henchman</hi> Lord Biſhop of <hi>Salisbury</hi> was Con<g ref="char:EOLhyphen"/>ſecrated <hi>Octob.</hi> 28. 1660.</cell>
+                     <cell>VVileſhire. Berkſhire.</cell>
+                     <cell>248</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. <hi>George Morley</hi> Lord Biſhop of <hi>Worceſter,</hi> was Conſecrated <hi>Octob.</hi> 28. 1660.</cell>
+                     <cell>VVorceſter-ſh. VVarw. ſh. <hi>part.</hi> 
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>248</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. <hi>Robert Sanderſon</hi> Lord Biſhop of <hi>Lincoln,</hi> was Conſecrated <hi>Octob.</hi> 28. 1660.</cell>
+                     <cell>Lincoln-ſh. Leiceſter-ſh. Huntingdon-ſh. Bedford-ſh. Buckinghamſh. Hartford-ſh. <hi>p.</hi>
+                     </cell>
+                     <cell>1255</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb facs="tcp:153094:3" rendition="simple:additions"/> Dr. <hi>George Griffith</hi> Lord Biſhop of <hi>St. Aſaph,</hi> was Conſecrated <hi>Octob.</hi> 28. 1660.</cell>
+                     <cell>Denby-ſh. <hi>part.</hi> Flint-ſh. <hi>part.</hi>
+                     </cell>
+                     <cell>121</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. <hi>William Lucey</hi> Lord Biſhop of <hi>St. Davids,</hi> was Conſecrated <hi>Decemb.</hi> 2. 1660.</cell>
+                     <cell>Glamorg. ſh. <hi>pt.</hi> Cardig. Breckn. &amp; Radnor <hi>part.</hi> Mountgom. <hi>part.</hi> Pembr. Carmar.</cell>
+                     <cell>308</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. <hi>Benjamin Laney</hi> Lord Biſhop of <hi>Peterborough,</hi> was Conſe<g ref="char:EOLhyphen"/>crated <hi>Decemb.</hi> 2. 1660.</cell>
+                     <cell>Northamp. ſh. Rutland-ſh.</cell>
+                     <cell>293</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Landaff,</hi> was Conſecrated <hi>De<g ref="char:EOLhyphen"/>cemb.</hi> 2. 1660.</cell>
+                     <cell>Glamorganſh. <hi>p.</hi> Monmouthſh.</cell>
+                     <cell>177</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. <hi>Richard Stern</hi> Lord Biſhop of <hi>Carliſſe,</hi> was Conſecrated <hi>De<g ref="char:EOLhyphen"/>cemb.</hi> 2. 1660. <hi>Y.</hi>
+                     </cell>
+                     <cell>Cumberland <hi>p.</hi> VVeſtmerland.</cell>
+                     <cell>93</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. <hi>Brian Walton</hi> Lord Biſhop of <hi>Cheſter,</hi> was Conſecrated <hi>De<g ref="char:EOLhyphen"/>cemb.</hi> 2. 1660. <hi>Y.</hi>
+                     </cell>
+                     <cell>Cheſhire Richmond-ſh. Flint-ſh. <hi>part.</hi> Cumberland <hi>p.</hi> Lancaſhire.</cell>
+                     <cell>256</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. <hi>John Gauden</hi> Lord biſhop of <hi>Exeter,</hi> was Conſecrated <hi>De<g ref="char:EOLhyphen"/>cemb.</hi> 2. 1660.</cell>
+                     <cell>Devon-ſh. Excter <hi>City.</hi> Cornwal.</cell>
+                     <cell>623</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. <hi>Gilbert Ironſide</hi> Lord Biſhop of <hi>Briſtol,</hi> was Co<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ecrated <hi>Ja<g ref="char:EOLhyphen"/>nuar.</hi> 13. 1660.</cell>
+                     <cell>Briſtol <hi>City.</hi> Dorſet-ſh.</cell>
+                     <cell>236</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. <hi>Edw. Reynolds</hi> Lord Biſhop of <hi>Norwich,</hi> was Conſecrated <hi>Januar.</hi> 13. 1660.</cell>
+                     <cell>Norfolk. Suffolk.</cell>
+                     <cell>1121</cell>
+                  </row>
+                  <row>
+                     <cell>Dr. <hi>William Nicholſon</hi> Lord Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Glouceſter,</hi> was Con<g ref="char:EOLhyphen"/>ſecrated <hi>January.</hi> 13. 1660.</cell>
+                     <cell>Glouceſter-ſhire.</cell>
+                     <cell>267</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb facs="tcp:153094:4"/> Dr. <hi>Nicholas Monck</hi> Lord Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Hereford,</hi> was Conſe<g ref="char:EOLhyphen"/>crated <hi>Januar.</hi> 13. 1660.</cell>
+                     <cell>Hereford-ſh. Shrop-ſh <hi>part.</hi> VVorceſt ſh. <hi>p.</hi> Radnor-ſh. <hi>part.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Lord Biſhop of <hi>Coventry</hi> and <hi>Lichfield.</hi>
+                     </cell>
+                     <cell>VVarwick-ſh. <hi>p.</hi> Stafford-ſh. Deriby-ſh. Shrop-ſh. <hi>part.</hi>
+                     </cell>
+                     <cell>241</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>A.</hi> Notes the Antient Biſhops; <hi>Y.</hi> the Dioceſſes in the Province of <hi>York,</hi> all the reſt are in the Province of <hi>Canterbury.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Pawley,</hi> 1661.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
